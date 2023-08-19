@@ -1,0 +1,4 @@
+../SregLib/checkSREC.c:27:9:checkLine	104	static
+../SregLib/checkSREC.c:34:9:convertHexCharToInterger	24	static
+../SregLib/checkSREC.c:56:13:handleBuff	40	static
+../SregLib/checkSREC.c:159:13:handErr	24	static

@@ -1,0 +1,9 @@
+../HAL/Source/HAL_PortControl.c:20:13:checkGPIO	16	static
+../HAL/Source/HAL_PortControl.c:36:6:HAL_Mux	24	static
+../HAL/Source/HAL_PortControl.c:47:6:HAL_ISRQMode	24	static
+../HAL/Source/HAL_PortControl.c:59:6:HAL_ClearInterruptFlag	16	static
+../HAL/Source/HAL_PortControl.c:70:9:HAL_ReadInterruptFlag	32	static
+../HAL/Source/HAL_PortControl.c:86:6:HAL_WritePSFeild	24	static
+../HAL/Source/HAL_PortControl.c:96:6:HAL_WritePEFeild	24	static
+../HAL/Source/HAL_PortControl.c:106:6:HAL_IntPortBCDHandleFunc	16	static
+../HAL/Source/HAL_PortControl.c:116:6:PORTBCD_IRQHandler	8	static

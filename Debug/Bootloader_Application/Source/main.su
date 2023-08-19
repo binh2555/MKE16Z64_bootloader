@@ -1,0 +1,7 @@
+../Bootloader_Application/Source/main.c:111:5:bootloader_main	288	static
+../Bootloader_Application/Source/main.c:261:6:LPUART_ReceiveCallbackFunction	16	static
+../Bootloader_Application/Source/main.c:327:6:LPUART0_errorHandle	16	static
+../Bootloader_Application/Source/main.c:337:13:LPUART0_init	56	static
+../Bootloader_Application/Source/main.c:442:6:systick_init	16	static
+../Bootloader_Application/Source/main.c:456:13:eraseApplicationRegion	8	static
+../Bootloader_Application/Source/main.c:471:17:mystrlen	24	static

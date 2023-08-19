@@ -1,0 +1,8 @@
+../Queue/Queue.c:30:9:queueRXCheckEmpty	8	static
+../Queue/Queue.c:35:9:queueRXCheckFull	16	static
+../Queue/Queue.c:50:10:getRxQueueAddress	8	static
+../Queue/Queue.c:62:10:RX_dequeue	8	static
+../Queue/Queue.c:75:9:queueTXCheckEmpty	8	static
+../Queue/Queue.c:80:9:queueTXCheckFull	16	static
+../Queue/Queue.c:96:6:queueTXPush	32	static
+../Queue/Queue.c:113:10:TX_dequeue	16	static

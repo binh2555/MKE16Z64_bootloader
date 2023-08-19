@@ -1,0 +1,9 @@
+../Driver/Source/Driver_Clock.c:8:6:Driver_EnableGPIOBClock	8	static
+../Driver/Source/Driver_Clock.c:18:6:Driver_EnableGPIOCClock	8	static
+../Driver/Source/Driver_Clock.c:28:6:Driver_EnableGPIODClock	8	static
+../Driver/Source/Driver_Clock.c:38:6:Driver_SetFIRCDIV2	16	static
+../Driver/Source/Driver_Clock.c:48:6:Driver_SetPCSLPIT0	16	static
+../Driver/Source/Driver_Clock.c:58:6:Driver_SetCGCLPIT0	16	static
+../Driver/Source/Driver_Clock.c:68:6:Driver_SetPCSLPUART0	16	static
+../Driver/Source/Driver_Clock.c:78:6:Driver_SetCGCLPUART0	16	static
+../Driver/Source/Driver_Clock.c:83:6:Driver_EnableFalshModuleClock	8	static

@@ -1,0 +1,8 @@
+../HAL/Source/HAL_systick.c:11:6:HAL_Enable_systick	8	static
+../HAL/Source/HAL_systick.c:21:6:HAL_Disable_systick	8	static
+../HAL/Source/HAL_systick.c:31:6:HAL_InterrputEnable_systick	8	static
+../HAL/Source/HAL_systick.c:41:6:HAL_InterrputDisable_systick	8	static
+../HAL/Source/HAL_systick.c:51:6:HAL_SetReloadValue_systick	16	static
+../HAL/Source/HAL_systick.c:61:6:HAL_ProcessClock_systick	8	static
+../HAL/Source/HAL_systick.c:71:6:HAL_ExternalClock_systick	8	static
+../HAL/Source/HAL_systick.c:81:6:HAL_systickHandleFunc	16	static

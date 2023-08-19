@@ -1,0 +1,1830 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+                              ./SregLib/checkSREC.o (memcpy)
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+                              ./Bootloader_Application/Source/main.o (memset)
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                              ./device/system_MKE16Z4.o (__aeabi_uidiv)
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./startup/startup_mke16z4.o
+ .text          0x00000000        0x0 ./startup/startup_mke16z4.o
+ .data          0x00000000        0x0 ./startup/startup_mke16z4.o
+ .bss           0x00000000        0x0 ./startup/startup_mke16z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./device/system_MKE16Z4.o
+ .text          0x00000000        0x0 ./device/system_MKE16Z4.o
+ .data          0x00000000        0x0 ./device/system_MKE16Z4.o
+ .bss           0x00000000        0x0 ./device/system_MKE16Z4.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./device/system_MKE16Z4.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd4 ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000      0xa7e ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0x10 ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000      0x12e ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000      0x5b3 ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0x3f ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0x1c ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0x22 ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0xd1 ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000      0x3ad ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000       0x3a ./device/system_MKE16Z4.o
+ .debug_macro   0x00000000     0x6d8e ./device/system_MKE16Z4.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./User_Application/Source/User_App.o
+ .text          0x00000000        0x0 ./User_Application/Source/User_App.o
+ .data          0x00000000        0x0 ./User_Application/Source/User_App.o
+ .bss           0x00000000        0x0 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000      0xa7e ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x10 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000      0x12e ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000      0x5b3 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x10 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x3f ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x1c ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x22 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0xd1 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000      0x3ad ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x3a ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000     0x6d8e ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0xd8 ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x4c ./User_Application/Source/User_App.o
+ .debug_macro   0x00000000       0x1c ./User_Application/Source/User_App.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./SregLib/checkSREC.o
+ .text          0x00000000        0x0 ./SregLib/checkSREC.o
+ .data          0x00000000        0x0 ./SregLib/checkSREC.o
+ .bss           0x00000000        0x0 ./SregLib/checkSREC.o
+ .debug_macro   0x00000000      0xa7e ./SregLib/checkSREC.o
+ .debug_macro   0x00000000       0x10 ./SregLib/checkSREC.o
+ .debug_macro   0x00000000      0x12e ./SregLib/checkSREC.o
+ .debug_macro   0x00000000       0xd8 ./SregLib/checkSREC.o
+ .debug_macro   0x00000000      0x5b3 ./SregLib/checkSREC.o
+ .group         0x00000000        0xc ./Queue/Queue.o
+ .group         0x00000000        0xc ./Queue/Queue.o
+ .group         0x00000000        0xc ./Queue/Queue.o
+ .group         0x00000000        0xc ./Queue/Queue.o
+ .group         0x00000000        0xc ./Queue/Queue.o
+ .text          0x00000000        0x0 ./Queue/Queue.o
+ .data          0x00000000        0x0 ./Queue/Queue.o
+ .bss           0x00000000        0x0 ./Queue/Queue.o
+ .bss.s_queueTXBuff
+                0x00000000      0x100 ./Queue/Queue.o
+ .bss.s_pushTXIndex
+                0x00000000        0x1 ./Queue/Queue.o
+ .bss.s_popTXIndex
+                0x00000000        0x1 ./Queue/Queue.o
+ .bss.s_queueTXEleNum
+                0x00000000        0x1 ./Queue/Queue.o
+ .text.queueRXCheckEmpty
+                0x00000000       0x14 ./Queue/Queue.o
+ .text.queueTXCheckEmpty
+                0x00000000       0x14 ./Queue/Queue.o
+ .text.queueTXCheckFull
+                0x00000000       0x2c ./Queue/Queue.o
+ .text.queueTXPush
+                0x00000000       0x84 ./Queue/Queue.o
+ .text.TX_dequeue
+                0x00000000       0x54 ./Queue/Queue.o
+ .debug_macro   0x00000000      0xa7e ./Queue/Queue.o
+ .debug_macro   0x00000000       0x10 ./Queue/Queue.o
+ .debug_macro   0x00000000      0x12e ./Queue/Queue.o
+ .debug_macro   0x00000000      0x5b3 ./Queue/Queue.o
+ .debug_macro   0x00000000       0xd8 ./Queue/Queue.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Clock.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_Clock.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_Clock.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_Clock.o
+ .text.HAL_SetPCSLPIT0
+                0x00000000       0x34 ./HAL/Source/HAL_Clock.o
+ .text.HAL_SetCGCLPIT0
+                0x00000000       0x34 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x3f ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x1c ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0xd1 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000      0x3ad ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x3a ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000     0x6d8e ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_Clock.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_Flash.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_Flash.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_Flash.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x3f ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x1c ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0xd1 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000      0x3ad ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000       0x3a ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00000000     0x6d8e ./HAL/Source/HAL_Flash.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_GPIO.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_GPIO.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_GPIO.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_GPIO.o
+ .text.HAL_ISRQMode
+                0x00000000       0x6c ./HAL/Source/HAL_GPIO.o
+ .text.HAL_ReadInterruptFlag
+                0x00000000       0x58 ./HAL/Source/HAL_GPIO.o
+ .text.HAL_WritePSFeild
+                0x00000000       0x5c ./HAL/Source/HAL_GPIO.o
+ .text.HAL_WritePEFeild
+                0x00000000       0x5c ./HAL/Source/HAL_GPIO.o
+ .text.HAL_IntPortBCDHandleFunc
+                0x00000000       0x1c ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0xd8 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x3f ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x1c ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0xd1 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000      0x3ad ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x3a ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000     0x6d8e ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x00000000       0x4c ./HAL/Source/HAL_GPIO.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_LPUART.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_LPUART.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_LPUART.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_LPUART.o
+ .text.HAL_LPUART_Write_RXFE
+                0x00000000       0x2a ./HAL/Source/HAL_LPUART.o
+ .text.HAL_LPUART_Write_TXFE
+                0x00000000       0x2a ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x3f ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x1c ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0xd1 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000      0x3ad ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x3a ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000     0x6d8e ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0xd8 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_LPUART.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_NVIC.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_NVIC.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_NVIC.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0x3f ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0x1c ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0x22 ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0xd1 ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000      0x3ad ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000       0x3a ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x00000000     0x6d8e ./HAL/Source/HAL_NVIC.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./HAL/Source/HAL_systick.o
+ .text          0x00000000        0x0 ./HAL/Source/HAL_systick.o
+ .data          0x00000000        0x0 ./HAL/Source/HAL_systick.o
+ .bss           0x00000000        0x0 ./HAL/Source/HAL_systick.o
+ .bss.sysTickHandleFunc
+                0x00000000        0x4 ./HAL/Source/HAL_systick.o
+ .text.HAL_systickHandleFunc
+                0x00000000       0x1c ./HAL/Source/HAL_systick.o
+ .debug_macro   0x00000000      0xa7e ./HAL/Source/HAL_systick.o
+ .debug_macro   0x00000000       0x10 ./HAL/Source/HAL_systick.o
+ .debug_macro   0x00000000      0x12e ./HAL/Source/HAL_systick.o
+ .debug_macro   0x00000000      0x5b3 ./HAL/Source/HAL_systick.o
+ .debug_macro   0x00000000       0xd8 ./HAL/Source/HAL_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Clock.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_Clock.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_Clock.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_Clock.o
+ .text.Driver_EnableGPIOCClock
+                0x00000000        0xa ./Driver/Source/Driver_Clock.o
+ .text.Driver_SetPCSLPIT0
+                0x00000000       0x1e ./Driver/Source/Driver_Clock.o
+ .text.Driver_SetCGCLPIT0
+                0x00000000       0x1e ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x3f ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0xd1 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000      0x3ad ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x3a ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000     0x6d8e ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_Clock.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_Flash.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_Flash.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_Flash.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x3f ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0xd1 ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000      0x3ad ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x3a ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000     0x6d8e ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x00000000       0x34 ./Driver/Source/Driver_Flash.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_GPIO.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_GPIO.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_GPIO.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_GPIO.o
+ .text.Driver_ISRQMode
+                0x00000000       0x38 ./Driver/Source/Driver_GPIO.o
+ .text.Driver_ReadAndClearInterruptFlag
+                0x00000000       0x4c ./Driver/Source/Driver_GPIO.o
+ .text.Driver_ClearInterruptFlag
+                0x00000000       0x2a ./Driver/Source/Driver_GPIO.o
+ .text.Driver_WritePSFeild
+                0x00000000       0x38 ./Driver/Source/Driver_GPIO.o
+ .text.Driver_WritePEFeild
+                0x00000000       0x38 ./Driver/Source/Driver_GPIO.o
+ .text.Driver_IntPortBCDHandleFunc
+                0x00000000       0x18 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0xd8 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x3f ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0xd1 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000      0x3ad ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x3a ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000     0x6d8e ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x4c ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_GPIO.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_LPUART.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_LPUART.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_LPUART.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_LPUART.o
+ .text.Driver_TXEnableOrDisable
+                0x00000000       0x40 ./Driver/Source/Driver_LPUART.o
+ .text.Driver_LPUART_EnableOrDisableTXInterrupt
+                0x00000000       0x40 ./Driver/Source/Driver_LPUART.o
+ .text.Driver_LPUART_EnableOrDisableRXInterrupt
+                0x00000000       0x34 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x3f ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0xd1 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000      0x3ad ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0x3a ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000     0x6d8e ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00000000       0xd8 ./Driver/Source/Driver_LPUART.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_NVIC.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_NVIC.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_NVIC.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0x3f ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0x1c ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0xd1 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000      0x3ad ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000       0x3a ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00000000     0x6d8e ./Driver/Source/Driver_NVIC.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Driver/Source/Driver_systick.o
+ .text          0x00000000        0x0 ./Driver/Source/Driver_systick.o
+ .data          0x00000000        0x0 ./Driver/Source/Driver_systick.o
+ .bss           0x00000000        0x0 ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000      0xa7e ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000       0x10 ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000      0x12e ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000      0x5b3 ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000       0x6a ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000       0xd8 ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00000000       0x22 ./Driver/Source/Driver_systick.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .group         0x00000000        0xc ./Bootloader_Application/Source/main.o
+ .text          0x00000000        0x0 ./Bootloader_Application/Source/main.o
+ .data          0x00000000        0x0 ./Bootloader_Application/Source/main.o
+ .bss           0x00000000        0x0 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000      0xa7e ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x10 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000      0x12e ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0xd8 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x22 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000      0x5b3 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x22 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x3f ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x1c ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x22 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0xd1 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000      0x3ad ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x3a ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000     0x6d8e ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x10 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x10 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x4c ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x1c ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00000000       0x16 ./Bootloader_Application/Source/main.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+PROGRAM_FLASH    0x00000000         0x00010000         xr
+SRAM             0x1ffff800         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./startup/startup_mke16z4.o
+LOAD ./device/system_MKE16Z4.o
+LOAD ./User_Application/Source/User_App.o
+LOAD ./SregLib/checkSREC.o
+LOAD ./Queue/Queue.o
+LOAD ./HAL/Source/HAL_Clock.o
+LOAD ./HAL/Source/HAL_Flash.o
+LOAD ./HAL/Source/HAL_GPIO.o
+LOAD ./HAL/Source/HAL_LPUART.o
+LOAD ./HAL/Source/HAL_NVIC.o
+LOAD ./HAL/Source/HAL_systick.o
+LOAD ./Driver/Source/Driver_Clock.o
+LOAD ./Driver/Source/Driver_Flash.o
+LOAD ./Driver/Source/Driver_GPIO.o
+LOAD ./Driver/Source/Driver_LPUART.o
+LOAD ./Driver/Source/Driver_NVIC.o
+LOAD ./Driver/Source/Driver_systick.o
+LOAD ./Bootloader_Application/Source/main.o
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_nohost_nf.a
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_PROGRAM_FLASH = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00010000                __top_PROGRAM_FLASH = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x1ffff800                __base_SRAM = 0x1ffff800
+                0x1ffff800                __base_RAM = 0x1ffff800
+                0x20001800                __top_SRAM = 0x20001800
+                0x20001800                __top_RAM = 0x20001800
+
+.text           0x00000000     0x31ec
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(SORT_BY_ALIGNMENT(.isr_vector))
+ .isr_vector    0x00000000       0xc0 ./startup/startup_mke16z4.o
+                0x00000000                g_pfnVectors
+                0x00000000                __Vectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x31ec LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x1ffff800 ADDR (.data)
+                0x000000c8        0x4 LONG 0xb0 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x1ffff8b0 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x108c SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(SORT_BY_ALIGNMENT(.after_vectors*))
+ .after_vectors.reset
+                0x000000d4       0x74 ./startup/startup_mke16z4.o
+                0x000000d4                ResetISR
+ .after_vectors.init_data
+                0x00000148       0x12 ./startup/startup_mke16z4.o
+                0x00000148                data_init
+ .after_vectors.init_bss
+                0x0000015a       0x10 ./startup/startup_mke16z4.o
+                0x0000015a                bss_init
+ .after_vectors
+                0x0000016a      0x10c ./startup/startup_mke16z4.o
+                0x0000016a                NMI_Handler
+                0x0000016c                HardFault_Handler
+                0x0000016e                SVC_Handler
+                0x00000170                PendSV_Handler
+                0x00000174                Reserved37_DriverIRQHandler
+                0x00000174                Reserved39_DriverIRQHandler
+                0x00000174                Reserved19_DriverIRQHandler
+                0x00000174                FTM1_DriverIRQHandler
+                0x00000174                LPI2C0_DriverIRQHandler
+                0x00000174                RTC_DriverIRQHandler
+                0x00000174                Reserved25_DriverIRQHandler
+                0x00000174                LPSPI0_DriverIRQHandler
+                0x00000174                PWT_LPTMR0_DriverIRQHandler
+                0x00000174                CMP0_DriverIRQHandler
+                0x00000174                PORTBCD_DriverIRQHandler
+                0x00000174                PDB0_DriverIRQHandler
+                0x00000174                ADC0_DriverIRQHandler
+                0x00000174                Reserved17_DriverIRQHandler
+                0x00000174                TSI_DriverIRQHandler
+                0x00000174                FTFA_DriverIRQHandler
+                0x00000174                FTM0_DriverIRQHandler
+                0x00000174                IntDefaultHandler
+                0x00000174                PORTAE_DriverIRQHandler
+                0x00000174                SCG_RCM_DriverIRQHandler
+                0x00000174                MSCAN_DriverIRQHandler
+                0x00000174                LPUART2_DriverIRQHandler
+                0x00000174                LVD_LVW_DriverIRQHandler
+                0x00000174                WDOG_EWM_DriverIRQHandler
+                0x00000174                Reserved27_DriverIRQHandler
+                0x00000174                LPUART0_DriverIRQHandler
+                0x00000174                LPIT0_DriverIRQHandler
+                0x00000174                Reserved20_DriverIRQHandler
+                0x00000174                LPUART1_DriverIRQHandler
+                0x00000174                Reserved35_DriverIRQHandler
+                0x00000174                Reserved16_DriverIRQHandler
+                0x00000174                Reserved18_DriverIRQHandler
+                0x00000176                Reserved16_IRQHandler
+                0x0000017e                Reserved17_IRQHandler
+                0x00000186                Reserved18_IRQHandler
+                0x0000018e                Reserved19_IRQHandler
+                0x00000196                Reserved20_IRQHandler
+                0x0000019e                FTFA_IRQHandler
+                0x000001a6                LVD_LVW_IRQHandler
+                0x000001ae                PORTAE_IRQHandler
+                0x000001b6                LPI2C0_IRQHandler
+                0x000001be                Reserved25_IRQHandler
+                0x000001c6                LPSPI0_IRQHandler
+                0x000001ce                Reserved27_IRQHandler
+                0x000001ee                ADC0_IRQHandler
+                0x000001f6                CMP0_IRQHandler
+                0x000001fe                FTM0_IRQHandler
+                0x00000206                FTM1_IRQHandler
+                0x0000020e                Reserved35_IRQHandler
+                0x00000216                RTC_IRQHandler
+                0x0000021e                Reserved37_IRQHandler
+                0x00000226                LPIT0_IRQHandler
+                0x0000022e                Reserved39_IRQHandler
+                0x00000236                TSI_IRQHandler
+                0x0000023e                PDB0_IRQHandler
+                0x0000024e                SCG_RCM_IRQHandler
+                0x00000256                WDOG_EWM_IRQHandler
+                0x0000025e                PWT_LPTMR0_IRQHandler
+                0x00000266                MSCAN_Rx_IRQHandler
+                0x0000026e                MSCAN_ORed_IRQHandler
+                0x00000400                . = 0x400
+ *fill*         0x00000276      0x18a ff
+                0x00000400                PROVIDE (__FLASH_CONFIG_START__ = .)
+ *(SORT_BY_ALIGNMENT(.FlashConfig))
+ .FlashConfig   0x00000400       0x10 ./startup/startup_mke16z4.o
+                0x00000400                Flash_Config
+                0x00000410                PROVIDE (__FLASH_CONFIG_END__ = .)
+                0x00000001                ASSERT (! ((__FLASH_CONFIG_START__ == __FLASH_CONFIG_END__)), Linker Flash Config Support Enabled, but no .FlashConfig section provided within application)
+ *(SORT_BY_ALIGNMENT(.text*))
+ .text.SystemInit
+                0x00000410       0x5c ./device/system_MKE16Z4.o
+                0x00000410                SystemInit
+ .text.initLed  0x0000046c       0x48 ./User_Application/Source/User_App.o
+                0x0000046c                initLed
+ .text.delay    0x000004b4       0x2c ./User_Application/Source/User_App.o
+                0x000004b4                delay
+ .text.checkLine
+                0x000004e0       0x60 ./SregLib/checkSREC.o
+                0x000004e0                checkLine
+ .text.handleBuff
+                0x00000540      0x34c ./SregLib/checkSREC.o
+ .text.queueRXCheckFull
+                0x0000088c       0x2c ./Queue/Queue.o
+                0x0000088c                queueRXCheckFull
+ .text.getRxQueueAddress
+                0x000008b8       0x40 ./Queue/Queue.o
+                0x000008b8                getRxQueueAddress
+ .text.RX_dequeue
+                0x000008f8       0x40 ./Queue/Queue.o
+                0x000008f8                RX_dequeue
+ .text.HAL_EnableGPIOBClock
+                0x00000938       0x24 ./HAL/Source/HAL_Clock.o
+                0x00000938                HAL_EnableGPIOBClock
+ .text.HAL_EnableGPIODClock
+                0x0000095c       0x24 ./HAL/Source/HAL_Clock.o
+                0x0000095c                HAL_EnableGPIODClock
+ .text.HAL_SetFIRCDIV2
+                0x00000980       0x30 ./HAL/Source/HAL_Clock.o
+                0x00000980                HAL_SetFIRCDIV2
+ .text.HAL_SetPCSLPUART0
+                0x000009b0       0x38 ./HAL/Source/HAL_Clock.o
+                0x000009b0                HAL_SetPCSLPUART0
+ .text.HAL_SetCGCLPUART0
+                0x000009e8       0x38 ./HAL/Source/HAL_Clock.o
+                0x000009e8                HAL_SetCGCLPUART0
+ .text.HAL_ENABLE_FTFA_CLOCK
+                0x00000a20       0x20 ./HAL/Source/HAL_Clock.o
+                0x00000a20                HAL_ENABLE_FTFA_CLOCK
+ .text.HAL_FLASH_Clear_CCIF
+                0x00000a40       0x14 ./HAL/Source/HAL_Flash.o
+                0x00000a40                HAL_FLASH_Clear_CCIF
+ .text.HAL_FLASH_Write_FCCOB0
+                0x00000a54       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000a54                HAL_FLASH_Write_FCCOB0
+ .text.HAL_FLASH_Write_FCCOB1
+                0x00000a74       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000a74                HAL_FLASH_Write_FCCOB1
+ .text.HAL_FLASH_Write_FCCOB2
+                0x00000a94       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000a94                HAL_FLASH_Write_FCCOB2
+ .text.HAL_FLASH_Write_FCCOB3
+                0x00000ab4       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000ab4                HAL_FLASH_Write_FCCOB3
+ .text.HAL_FLASH_Write_FCCOB4
+                0x00000ad4       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000ad4                HAL_FLASH_Write_FCCOB4
+ .text.HAL_FLASH_Write_FCCOB5
+                0x00000af4       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000af4                HAL_FLASH_Write_FCCOB5
+ .text.HAL_FLASH_Write_FCCOB6
+                0x00000b14       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000b14                HAL_FLASH_Write_FCCOB6
+ .text.HAL_FLASH_Write_FCCOB7
+                0x00000b34       0x20 ./HAL/Source/HAL_Flash.o
+                0x00000b34                HAL_FLASH_Write_FCCOB7
+ .text.HAL_SetGPIO
+                0x00000b54       0x50 ./HAL/Source/HAL_GPIO.o
+                0x00000b54                HAL_SetGPIO
+ .text.HAL_ResetGPIO
+                0x00000ba4       0x50 ./HAL/Source/HAL_GPIO.o
+                0x00000ba4                HAL_ResetGPIO
+ .text.HAL_GPIO_SetMode
+                0x00000bf4       0x6c ./HAL/Source/HAL_GPIO.o
+                0x00000bf4                HAL_GPIO_SetMode
+ .text.HAL_GPIO_ReadDataInput
+                0x00000c60       0x4c ./HAL/Source/HAL_GPIO.o
+                0x00000c60                HAL_GPIO_ReadDataInput
+ .text.HAL_TongglePin
+                0x00000cac       0x44 ./HAL/Source/HAL_GPIO.o
+                0x00000cac                HAL_TongglePin
+ .text.HAL_Mux  0x00000cf0       0x6c ./HAL/Source/HAL_GPIO.o
+                0x00000cf0                HAL_Mux
+ .text.HAL_ClearInterruptFlag
+                0x00000d5c       0x54 ./HAL/Source/HAL_GPIO.o
+                0x00000d5c                HAL_ClearInterruptFlag
+ .text.PORTBCD_IRQHandler
+                0x00000db0       0x24 ./HAL/Source/HAL_GPIO.o
+                0x00000db0                PORTBCD_IRQHandler
+ .text.HAL_LPUART_Write_TE
+                0x00000dd4       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000dd4                HAL_LPUART_Write_TE
+ .text.HAL_LPUART_Write_RE
+                0x00000e04       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000e04                HAL_LPUART_Write_RE
+ .text.HAL_LPUART_Write_RIE
+                0x00000e34       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000e34                HAL_LPUART_Write_RIE
+ .text.HAL_LPUART_Write_TIE
+                0x00000e64       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000e64                HAL_LPUART_Write_TIE
+ .text.HAL_LPUART_Write_M10
+                0x00000e94       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000e94                HAL_LPUART_Write_M10
+ .text.HAL_LPUART_Write_OSR
+                0x00000ec4       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000ec4                HAL_LPUART_Write_OSR
+ .text.HAL_LPUART_Write_M7
+                0x00000ef4       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000ef4                HAL_LPUART_Write_M7
+ .text.HAL_LPUART_Write_MSBF
+                0x00000f24       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000f24                HAL_LPUART_Write_MSBF
+ .text.HAL_LPUART_Write_SBNS
+                0x00000f54       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00000f54                HAL_LPUART_Write_SBNS
+ .text.__NVIC_EnableIRQ
+                0x00000f84       0x34 ./HAL/Source/HAL_NVIC.o
+ .text.__NVIC_DisableIRQ
+                0x00000fb8       0x44 ./HAL/Source/HAL_NVIC.o
+ .text.__NVIC_SetPriority
+                0x00000ffc       0xdc ./HAL/Source/HAL_NVIC.o
+ .text.HAL_Enable_systick
+                0x000010d8       0x1c ./HAL/Source/HAL_systick.o
+                0x000010d8                HAL_Enable_systick
+ .text.HAL_Disable_systick
+                0x000010f4       0x1c ./HAL/Source/HAL_systick.o
+                0x000010f4                HAL_Disable_systick
+ .text.HAL_InterrputEnable_systick
+                0x00001110       0x1c ./HAL/Source/HAL_systick.o
+                0x00001110                HAL_InterrputEnable_systick
+ .text.HAL_InterrputDisable_systick
+                0x0000112c       0x1c ./HAL/Source/HAL_systick.o
+                0x0000112c                HAL_InterrputDisable_systick
+ .text.HAL_SetReloadValue_systick
+                0x00001148       0x30 ./HAL/Source/HAL_systick.o
+                0x00001148                HAL_SetReloadValue_systick
+ .text.HAL_ProcessClock_systick
+                0x00001178       0x1c ./HAL/Source/HAL_systick.o
+                0x00001178                HAL_ProcessClock_systick
+ .text.HAL_ExternalClock_systick
+                0x00001194       0x1c ./HAL/Source/HAL_systick.o
+                0x00001194                HAL_ExternalClock_systick
+ .text.Driver_Flash_WritePolling
+                0x000011b0      0x3fc ./Driver/Source/Driver_Flash.o
+                0x000011b0                Driver_Flash_WritePolling
+ .text.Driver_Flash_EraseSector
+                0x000015ac      0x10c ./Driver/Source/Driver_Flash.o
+                0x000015ac                Driver_Flash_EraseSector
+ .text.Driver_LPUARTInit
+                0x000016b8      0x318 ./Driver/Source/Driver_LPUART.o
+                0x000016b8                Driver_LPUARTInit
+ .text.Driver_RXEnableOrDisable
+                0x000019d0       0x60 ./Driver/Source/Driver_LPUART.o
+                0x000019d0                Driver_RXEnableOrDisable
+ .text.Driver_LPUARTSendArrayPolling
+                0x00001a30       0x74 ./Driver/Source/Driver_LPUART.o
+                0x00001a30                Driver_LPUARTSendArrayPolling
+ .text.Driver_LPUARTSendCharPolling
+                0x00001aa4       0x68 ./Driver/Source/Driver_LPUART.o
+                0x00001aa4                Driver_LPUARTSendCharPolling
+ .text.Driver_LPUART_waitToReceive
+                0x00001b0c       0xfc ./Driver/Source/Driver_LPUART.o
+                0x00001b0c                Driver_LPUART_waitToReceive
+ .text.Driver_LPUART_waitToTransmit
+                0x00001c08       0xe8 ./Driver/Source/Driver_LPUART.o
+                0x00001c08                Driver_LPUART_waitToTransmit
+ .text.LPUART0_IRQHandler
+                0x00001cf0      0x100 ./Driver/Source/Driver_LPUART.o
+                0x00001cf0                LPUART0_IRQHandler
+ .text.LPUART1_IRQHandler
+                0x00001df0      0x100 ./Driver/Source/Driver_LPUART.o
+                0x00001df0                LPUART1_IRQHandler
+ .text.LPUART2_IRQHandler
+                0x00001ef0      0x100 ./Driver/Source/Driver_LPUART.o
+                0x00001ef0                LPUART2_IRQHandler
+ .text.SysTick_Handler
+                0x00001ff0      0x108 ./Driver/Source/Driver_systick.o
+                0x00001ff0                SysTick_Handler
+ .text.bootloader_main
+                0x000020f8      0x534 ./Bootloader_Application/Source/main.o
+                0x000020f8                bootloader_main
+ .text.LPUART_ReceiveCallbackFunction
+                0x0000262c      0x12c ./Bootloader_Application/Source/main.o
+                0x0000262c                LPUART_ReceiveCallbackFunction
+ .text.LPUART0_errorHandle
+                0x00002758       0x38 ./Bootloader_Application/Source/main.o
+                0x00002758                LPUART0_errorHandle
+ .text.LPUART0_init
+                0x00002790      0x12c ./Bootloader_Application/Source/main.o
+ .text.SystemInitHook
+                0x000028bc        0xa ./device/system_MKE16Z4.o
+                0x000028bc                SystemInitHook
+ .text.user_main
+                0x000028c6       0x16 ./User_Application/Source/User_App.o
+                0x000028c6                user_main
+ .text.convertHexCharToInterger
+                0x000028dc       0x5a ./SregLib/checkSREC.o
+                0x000028dc                convertHexCharToInterger
+ .text.handErr  0x00002936      0x194 ./SregLib/checkSREC.o
+ .text.checkGPIO
+                0x00002aca       0x1e ./HAL/Source/HAL_GPIO.o
+ .text.HAL_LPUART_Read_TIE
+                0x00002ae8       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00002ae8                HAL_LPUART_Read_TIE
+ .text.HAL_LPUART_Write_SBR
+                0x00002b18       0x28 ./HAL/Source/HAL_LPUART.o
+                0x00002b18                HAL_LPUART_Write_SBR
+ .text.HAL_LPUART_Write_M
+                0x00002b40       0x2a ./HAL/Source/HAL_LPUART.o
+                0x00002b40                HAL_LPUART_Write_M
+ .text.HAL_LPUART_Write_PE
+                0x00002b6a       0x2a ./HAL/Source/HAL_LPUART.o
+                0x00002b6a                HAL_LPUART_Write_PE
+ .text.HAL_LPUART_Write_PT
+                0x00002b94       0x2a ./HAL/Source/HAL_LPUART.o
+                0x00002b94                HAL_LPUART_Write_PT
+ .text.HAL_LPUART_Read_RDRF
+                0x00002bbe       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00002bbe                HAL_LPUART_Read_RDRF
+ .text.HAL_LPUART_Read_TDRE
+                0x00002bee       0x30 ./HAL/Source/HAL_LPUART.o
+                0x00002bee                HAL_LPUART_Read_TDRE
+ .text.HAL_LPUART_Read_DATA
+                0x00002c1e       0x16 ./HAL/Source/HAL_LPUART.o
+                0x00002c1e                HAL_LPUART_Read_DATA
+ .text.HAL_LPUART_Write_DATA
+                0x00002c34       0x1e ./HAL/Source/HAL_LPUART.o
+                0x00002c34                HAL_LPUART_Write_DATA
+ .text.HAL_NVICEnable
+                0x00002c52       0x20 ./HAL/Source/HAL_NVIC.o
+                0x00002c52                HAL_NVICEnable
+ .text.HAL_NVICDisable
+                0x00002c72       0x20 ./HAL/Source/HAL_NVIC.o
+                0x00002c72                HAL_NVICDisable
+ .text.HAL_NVIC_SetPriority
+                0x00002c92       0x26 ./HAL/Source/HAL_NVIC.o
+                0x00002c92                HAL_NVIC_SetPriority
+ .text.Driver_EnableGPIOBClock
+                0x00002cb8        0xe ./Driver/Source/Driver_Clock.o
+                0x00002cb8                Driver_EnableGPIOBClock
+ .text.Driver_EnableGPIODClock
+                0x00002cc6        0xe ./Driver/Source/Driver_Clock.o
+                0x00002cc6                Driver_EnableGPIODClock
+ .text.Driver_SetFIRCDIV2
+                0x00002cd4       0x1e ./Driver/Source/Driver_Clock.o
+                0x00002cd4                Driver_SetFIRCDIV2
+ .text.Driver_SetPCSLPUART0
+                0x00002cf2       0x1e ./Driver/Source/Driver_Clock.o
+                0x00002cf2                Driver_SetPCSLPUART0
+ .text.Driver_SetCGCLPUART0
+                0x00002d10       0x1e ./Driver/Source/Driver_Clock.o
+                0x00002d10                Driver_SetCGCLPUART0
+ .text.Driver_EnableFalshModuleClock
+                0x00002d2e        0xe ./Driver/Source/Driver_Clock.o
+                0x00002d2e                Driver_EnableFalshModuleClock
+ .text.Driver_WritePinDigital
+                0x00002d3c       0x58 ./Driver/Source/Driver_GPIO.o
+                0x00002d3c                Driver_WritePinDigital
+ .text.Driver_SetPinMode
+                0x00002d94       0x38 ./Driver/Source/Driver_GPIO.o
+                0x00002d94                Driver_SetPinMode
+ .text.Driver_ReadDataInput
+                0x00002dcc       0x2c ./Driver/Source/Driver_GPIO.o
+                0x00002dcc                Driver_ReadDataInput
+ .text.Driver_TongglePin
+                0x00002df8       0x2a ./Driver/Source/Driver_GPIO.o
+                0x00002df8                Driver_TongglePin
+ .text.Driver_Mux
+                0x00002e22       0x38 ./Driver/Source/Driver_GPIO.o
+                0x00002e22                Driver_Mux
+ .text.checkParameter
+                0x00002e5a       0x32 ./Driver/Source/Driver_LPUART.o
+ .text.Driver_NVICEnable
+                0x00002e8c       0x20 ./Driver/Source/Driver_NVIC.o
+                0x00002e8c                Driver_NVICEnable
+ .text.Driver_NVICDisable
+                0x00002eac       0x20 ./Driver/Source/Driver_NVIC.o
+                0x00002eac                Driver_NVICDisable
+ .text.Driver_NVIC_SetPriority
+                0x00002ecc       0x26 ./Driver/Source/Driver_NVIC.o
+                0x00002ecc                Driver_NVIC_SetPriority
+ .text.Driver_systickInit
+                0x00002ef2       0x58 ./Driver/Source/Driver_systick.o
+                0x00002ef2                Driver_systickInit
+ .text.Driver_systickInterruptEnableOrDisable
+                0x00002f4a       0x26 ./Driver/Source/Driver_systick.o
+                0x00002f4a                Driver_systickInterruptEnableOrDisable
+ .text.systick_init
+                0x00002f70       0x30 ./Bootloader_Application/Source/main.o
+                0x00002f70                systick_init
+ .text.eraseApplicationRegion
+                0x00002fa0       0x2e ./Bootloader_Application/Source/main.o
+ .text.mystrlen
+                0x00002fce       0x3a ./Bootloader_Application/Source/main.o
+ .text.memcpy   0x00003008        0x8 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+                0x00003008                memcpy
+ .text.memset   0x00003010        0x8 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+                0x00003010                memset
+ .text.__aeabi_division_idivmod
+                0x00003018       0x78 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                0x00003018                __aeabi_idivmod
+                0x00003018                __aeabi_idiv
+                0x0000301e                __aeabi_uidivmod
+                0x0000301e                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00003090        0x2 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                0x00003090                __aeabi_idiv0
+ .text.__aeabi_memcpy
+                0x00003092       0x2c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                0x00003092                __aeabi_memcpy4
+                0x00003092                __aeabi_memcpy8
+                0x00003092                __aeabi_memcpy
+ .text.__aeabi_memset_lowlevel
+                0x000030be       0x2a c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                0x000030be                __aeabi_lowlevel_memset
+ *(SORT_BY_ALIGNMENT(.rodata) SORT_BY_ALIGNMENT(.rodata.*) SORT_BY_ALIGNMENT(.constdata) SORT_BY_ALIGNMENT(.constdata.*))
+ .rodata.handleBuff
+                0x000030e8       0x28 ./SregLib/checkSREC.o
+ .rodata.str1.4
+                0x00003110       0xa3 ./Bootloader_Application/Source/main.o
+ *fill*         0x000031b3        0x1 ff
+ .rodata.LPUART0_init
+                0x000031b4       0x38 ./Bootloader_Application/Source/main.o
+                0x000031ec                . = ALIGN (0x4)
+
+.glue_7         0x000031ec        0x0
+ .glue_7        0x000031ec        0x0 linker stubs
+
+.glue_7t        0x000031ec        0x0
+ .glue_7t       0x000031ec        0x0 linker stubs
+
+.vfp11_veneer   0x000031ec        0x0
+ .vfp11_veneer  0x000031ec        0x0 linker stubs
+
+.v4_bx          0x000031ec        0x0
+ .v4_bx         0x000031ec        0x0 linker stubs
+
+.iplt           0x000031ec        0x0
+ .iplt          0x000031ec        0x0 ./startup/startup_mke16z4.o
+
+.rel.dyn        0x000031ec        0x0
+ .rel.iplt      0x000031ec        0x0 ./startup/startup_mke16z4.o
+
+.ARM.extab
+ *(SORT_BY_ALIGNMENT(.ARM.extab*) SORT_BY_ALIGNMENT(.gnu.linkonce.armextab.*))
+
+.ARM.exidx      0x000031ec        0x0
+                0x000031ec                __exidx_start = .
+ *(SORT_BY_ALIGNMENT(.ARM.exidx*) SORT_BY_ALIGNMENT(.gnu.linkonce.armexidx.*))
+                0x000031ec                __exidx_end = .
+                0x000031ec                _etext = .
+
+.mtb_buffer_default
+ *(SORT_BY_ALIGNMENT(.mtb*))
+
+.uninit_RESERVED
+                0x1ffff800        0x0
+                0x1ffff800                _start_uninit_RESERVED = .
+ *(SORT_BY_ALIGNMENT(.bss.$RESERVED*))
+                0x1ffff800                . = ALIGN (0x4)
+                0x1ffff800                _end_uninit_RESERVED = .
+
+.data           0x1ffff800       0xb0 load address 0x000031ec
+ FILL mask 0xff
+                0x1ffff800                _data = .
+                [!provide]                PROVIDE (__start_data_RAM = .)
+                [!provide]                PROVIDE (__start_data_SRAM = .)
+ *(SORT_BY_ALIGNMENT(vtable))
+ *(SORT_BY_ALIGNMENT(.ramfunc*))
+ *(SORT_BY_ALIGNMENT(CodeQuickAccess))
+ *(SORT_BY_ALIGNMENT(DataQuickAccess))
+ *(SORT_BY_ALIGNMENT(RamFunction))
+ *(SORT_BY_ALIGNMENT(.data*))
+ .data.mPort    0x1ffff800       0x14 ./HAL/Source/HAL_GPIO.o
+                0x1ffff800                mPort
+ .data.portAddress
+                0x1ffff814       0x14 ./HAL/Source/HAL_GPIO.o
+                0x1ffff814                portAddress
+ .data.basePtrLPUART
+                0x1ffff828        0xc ./HAL/Source/HAL_LPUART.o
+                0x1ffff828                basePtrLPUART
+ .data.receiveDataStructure
+                0x1ffff834       0x24 ./Driver/Source/Driver_LPUART.o
+ .data.transmitDataStructure
+                0x1ffff858       0x24 ./Driver/Source/Driver_LPUART.o
+ .data.LPUART_ReceiveTimeout
+                0x1ffff87c        0xc ./Driver/Source/Driver_systick.o
+                0x1ffff87c                LPUART_ReceiveTimeout
+ .data.LPUART_TransmitTimeout
+                0x1ffff888        0xc ./Driver/Source/Driver_systick.o
+                0x1ffff888                LPUART_TransmitTimeout
+ .data.noticeStr
+                0x1ffff894       0x18 ./Bootloader_Application/Source/main.o
+ .data.s_pushLineSREC
+                0x1ffff8ac        0x1 ./Queue/Queue.o
+ .data.s_popLineSREC
+                0x1ffff8ad        0x1 ./Queue/Queue.o
+ .data.programState
+                0x1ffff8ae        0x1 ./Bootloader_Application/Source/main.o
+                0x1ffff8b0                . = ALIGN (0x4)
+ *fill*         0x1ffff8af        0x1 ff
+                0x1ffff8b0                _edata = .
+                [!provide]                PROVIDE (__end_data_RAM = .)
+                [!provide]                PROVIDE (__end_data_SRAM = .)
+
+.igot.plt       0x1ffff8b0        0x0 load address 0x0000329c
+ .igot.plt      0x1ffff8b0        0x0 ./startup/startup_mke16z4.o
+
+.bss            0x1ffff8b0     0x108c
+                0x1ffff8b0                _bss = .
+                [!provide]                PROVIDE (__start_bss_RAM = .)
+                [!provide]                PROVIDE (__start_bss_SRAM = .)
+ *(SORT_BY_ALIGNMENT(.bss*))
+ .bss.s_statusStruct
+                0x1ffff8b0       0x58 ./SregLib/checkSREC.o
+ .bss.s_queueRXBuff
+                0x1ffff908     0x1000 ./Queue/Queue.o
+ .bss.IntPortBCDhandleFunc
+                0x20000908        0x4 ./HAL/Source/HAL_GPIO.o
+ .bss.LPUART_ReceiveCallback
+                0x2000090c        0xc ./Driver/Source/Driver_LPUART.o
+ .bss.LPUART_TransmitCallback
+                0x20000918        0xc ./Driver/Source/Driver_LPUART.o
+ .bss.LPUART_timeoutHandle
+                0x20000924        0xc ./Driver/Source/Driver_systick.o
+                0x20000924                LPUART_timeoutHandle
+ .bss.s_buffLine
+                0x20000930        0x4 ./Bootloader_Application/Source/main.o
+ .bss.fileEnd   0x20000934        0x1 ./SregLib/checkSREC.o
+                0x20000934                fileEnd
+ .bss.s_queueRXEleNum
+                0x20000935        0x1 ./Queue/Queue.o
+ .bss.SRECLineReadyFlag
+                0x20000936        0x1 ./Bootloader_Application/Source/main.o
+ .bss.receiveState
+                0x20000937        0x1 ./Bootloader_Application/Source/main.o
+ .bss.errorCount
+                0x20000938        0x1 ./Bootloader_Application/Source/main.o
+ *(SORT_BY_ALIGNMENT(COMMON))
+                0x2000093c                . = ALIGN (0x4)
+ *fill*         0x20000939        0x3 
+                0x2000093c                _ebss = .
+                [!provide]                PROVIDE (__end_bss_RAM = .)
+                [!provide]                PROVIDE (__end_bss_SRAM = .)
+                [!provide]                PROVIDE (end = .)
+
+.noinit         0x2000093c        0x0
+                0x2000093c                _noinit = .
+                [!provide]                PROVIDE (__start_noinit_RAM = .)
+                [!provide]                PROVIDE (__start_noinit_SRAM = .)
+ *(SORT_BY_ALIGNMENT(.noinit*))
+                0x2000093c                . = ALIGN (0x4)
+                0x2000093c                _end_noinit = .
+                [!provide]                PROVIDE (__end_noinit_RAM = .)
+                [!provide]                PROVIDE (__end_noinit_SRAM = .)
+                0x00000200                _HeapSize = 0x200
+
+.heap           0x2000093c      0x200
+                0x2000093c                _pvHeapStart = .
+                0x20000b3c                . = (. + _HeapSize)
+ *fill*         0x2000093c      0x200 
+                0x20000b3c                . = ALIGN (0x4)
+                0x20000b3c                _pvHeapLimit = .
+                0x00000200                _StackSize = 0x200
+
+.heap2stackfill
+                0x20000b3c      0x200
+                0x20000d3c                . = (. + _StackSize)
+ *fill*         0x20000b3c      0x200 
+
+.stack          0x20001600        0x0
+                0x20001600                _vStackBase = .
+                0x20001600                . = ALIGN (0x4)
+                0x20001800                _vStackTop = (. + _StackSize)
+                0x00000000                _image_start = LOADADDR (.text)
+                0x0000329c                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000329c                _image_size = (_image_end - _image_start)
+OUTPUT(ASS5.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x439b
+ .debug_info    0x00000000      0x57b ./startup/startup_mke16z4.o
+ .debug_info    0x0000057b      0x383 ./device/system_MKE16Z4.o
+ .debug_info    0x000008fe      0x15a ./User_Application/Source/User_App.o
+ .debug_info    0x00000a58      0x2c5 ./SregLib/checkSREC.o
+ .debug_info    0x00000d1d      0x27c ./Queue/Queue.o
+ .debug_info    0x00000f99      0x3e5 ./HAL/Source/HAL_Clock.o
+ .debug_info    0x0000137e      0x2fd ./HAL/Source/HAL_Flash.o
+ .debug_info    0x0000167b      0x5d8 ./HAL/Source/HAL_GPIO.o
+ .debug_info    0x00001c53      0x5cb ./HAL/Source/HAL_LPUART.o
+ .debug_info    0x0000221e      0x474 ./HAL/Source/HAL_NVIC.o
+ .debug_info    0x00002692      0x154 ./HAL/Source/HAL_systick.o
+ .debug_info    0x000027e6      0x206 ./Driver/Source/Driver_Clock.o
+ .debug_info    0x000029ec      0x2fd ./Driver/Source/Driver_Flash.o
+ .debug_info    0x00002ce9      0x3bc ./Driver/Source/Driver_GPIO.o
+ .debug_info    0x000030a5      0x817 ./Driver/Source/Driver_LPUART.o
+ .debug_info    0x000038bc      0x1fd ./Driver/Source/Driver_NVIC.o
+ .debug_info    0x00003ab9      0x1d2 ./Driver/Source/Driver_systick.o
+ .debug_info    0x00003c8b      0x710 ./Bootloader_Application/Source/main.o
+
+.debug_abbrev   0x00000000     0x1512
+ .debug_abbrev  0x00000000      0x1e1 ./startup/startup_mke16z4.o
+ .debug_abbrev  0x000001e1      0x148 ./device/system_MKE16Z4.o
+ .debug_abbrev  0x00000329       0xfd ./User_Application/Source/User_App.o
+ .debug_abbrev  0x00000426      0x135 ./SregLib/checkSREC.o
+ .debug_abbrev  0x0000055b       0xdf ./Queue/Queue.o
+ .debug_abbrev  0x0000063a       0xfd ./HAL/Source/HAL_Clock.o
+ .debug_abbrev  0x00000737       0xc0 ./HAL/Source/HAL_Flash.o
+ .debug_abbrev  0x000007f7      0x1b4 ./HAL/Source/HAL_GPIO.o
+ .debug_abbrev  0x000009ab      0x179 ./HAL/Source/HAL_LPUART.o
+ .debug_abbrev  0x00000b24      0x16e ./HAL/Source/HAL_NVIC.o
+ .debug_abbrev  0x00000c92       0xa4 ./HAL/Source/HAL_systick.o
+ .debug_abbrev  0x00000d36       0xb9 ./Driver/Source/Driver_Clock.o
+ .debug_abbrev  0x00000def      0x121 ./Driver/Source/Driver_Flash.o
+ .debug_abbrev  0x00000f10       0xef ./Driver/Source/Driver_GPIO.o
+ .debug_abbrev  0x00000fff      0x1cc ./Driver/Source/Driver_LPUART.o
+ .debug_abbrev  0x000011cb       0xaa ./Driver/Source/Driver_NVIC.o
+ .debug_abbrev  0x00001275       0xfb ./Driver/Source/Driver_systick.o
+ .debug_abbrev  0x00001370      0x1a2 ./Bootloader_Application/Source/main.o
+
+.debug_aranges  0x00000000      0x710
+ .debug_aranges
+                0x00000000      0x160 ./startup/startup_mke16z4.o
+ .debug_aranges
+                0x00000160       0x30 ./device/system_MKE16Z4.o
+ .debug_aranges
+                0x00000190       0x30 ./User_Application/Source/User_App.o
+ .debug_aranges
+                0x000001c0       0x38 ./SregLib/checkSREC.o
+ .debug_aranges
+                0x000001f8       0x58 ./Queue/Queue.o
+ .debug_aranges
+                0x00000250       0x58 ./HAL/Source/HAL_Clock.o
+ .debug_aranges
+                0x000002a8       0x60 ./HAL/Source/HAL_Flash.o
+ .debug_aranges
+                0x00000308       0x88 ./HAL/Source/HAL_GPIO.o
+ .debug_aranges
+                0x00000390       0xb8 ./HAL/Source/HAL_LPUART.o
+ .debug_aranges
+                0x00000448       0x48 ./HAL/Source/HAL_NVIC.o
+ .debug_aranges
+                0x00000490       0x58 ./HAL/Source/HAL_systick.o
+ .debug_aranges
+                0x000004e8       0x60 ./Driver/Source/Driver_Clock.o
+ .debug_aranges
+                0x00000548       0x28 ./Driver/Source/Driver_Flash.o
+ .debug_aranges
+                0x00000570       0x70 ./Driver/Source/Driver_GPIO.o
+ .debug_aranges
+                0x000005e0       0x80 ./Driver/Source/Driver_LPUART.o
+ .debug_aranges
+                0x00000660       0x30 ./Driver/Source/Driver_NVIC.o
+ .debug_aranges
+                0x00000690       0x30 ./Driver/Source/Driver_systick.o
+ .debug_aranges
+                0x000006c0       0x50 ./Bootloader_Application/Source/main.o
+
+.debug_ranges   0x00000000      0x5f0
+ .debug_ranges  0x00000000      0x150 ./startup/startup_mke16z4.o
+ .debug_ranges  0x00000150       0x20 ./device/system_MKE16Z4.o
+ .debug_ranges  0x00000170       0x20 ./User_Application/Source/User_App.o
+ .debug_ranges  0x00000190       0x28 ./SregLib/checkSREC.o
+ .debug_ranges  0x000001b8       0x48 ./Queue/Queue.o
+ .debug_ranges  0x00000200       0x48 ./HAL/Source/HAL_Clock.o
+ .debug_ranges  0x00000248       0x50 ./HAL/Source/HAL_Flash.o
+ .debug_ranges  0x00000298       0x78 ./HAL/Source/HAL_GPIO.o
+ .debug_ranges  0x00000310       0xa8 ./HAL/Source/HAL_LPUART.o
+ .debug_ranges  0x000003b8       0x38 ./HAL/Source/HAL_NVIC.o
+ .debug_ranges  0x000003f0       0x48 ./HAL/Source/HAL_systick.o
+ .debug_ranges  0x00000438       0x50 ./Driver/Source/Driver_Clock.o
+ .debug_ranges  0x00000488       0x18 ./Driver/Source/Driver_Flash.o
+ .debug_ranges  0x000004a0       0x60 ./Driver/Source/Driver_GPIO.o
+ .debug_ranges  0x00000500       0x70 ./Driver/Source/Driver_LPUART.o
+ .debug_ranges  0x00000570       0x20 ./Driver/Source/Driver_NVIC.o
+ .debug_ranges  0x00000590       0x20 ./Driver/Source/Driver_systick.o
+ .debug_ranges  0x000005b0       0x40 ./Bootloader_Application/Source/main.o
+
+.debug_macro    0x00000000     0x9e25
+ .debug_macro   0x00000000       0xfa ./startup/startup_mke16z4.o
+ .debug_macro   0x000000fa      0xa7e ./startup/startup_mke16z4.o
+ .debug_macro   0x00000b78       0x10 ./startup/startup_mke16z4.o
+ .debug_macro   0x00000b88      0x12e ./startup/startup_mke16z4.o
+ .debug_macro   0x00000cb6      0x5b3 ./startup/startup_mke16z4.o
+ .debug_macro   0x00001269       0xd8 ./startup/startup_mke16z4.o
+ .debug_macro   0x00001341       0x3f ./startup/startup_mke16z4.o
+ .debug_macro   0x00001380       0x1c ./startup/startup_mke16z4.o
+ .debug_macro   0x0000139c       0x22 ./startup/startup_mke16z4.o
+ .debug_macro   0x000013be       0xd1 ./startup/startup_mke16z4.o
+ .debug_macro   0x0000148f      0x3ad ./startup/startup_mke16z4.o
+ .debug_macro   0x0000183c       0x3a ./startup/startup_mke16z4.o
+ .debug_macro   0x00001876     0x6d8e ./startup/startup_mke16z4.o
+ .debug_macro   0x00008604       0x10 ./startup/startup_mke16z4.o
+ .debug_macro   0x00008614       0x4c ./startup/startup_mke16z4.o
+ .debug_macro   0x00008660       0x1c ./startup/startup_mke16z4.o
+ .debug_macro   0x0000867c       0x16 ./startup/startup_mke16z4.o
+ .debug_macro   0x00008692       0x97 ./device/system_MKE16Z4.o
+ .debug_macro   0x00008729       0x10 ./device/system_MKE16Z4.o
+ .debug_macro   0x00008739      0x908 ./device/system_MKE16Z4.o
+ .debug_macro   0x00009041       0xea ./User_Application/Source/User_App.o
+ .debug_macro   0x0000912b       0x10 ./User_Application/Source/User_App.o
+ .debug_macro   0x0000913b       0xa1 ./SregLib/checkSREC.o
+ .debug_macro   0x000091dc       0x22 ./SregLib/checkSREC.o
+ .debug_macro   0x000091fe       0x22 ./SregLib/checkSREC.o
+ .debug_macro   0x00009220       0x71 ./Queue/Queue.o
+ .debug_macro   0x00009291       0xc1 ./HAL/Source/HAL_Clock.o
+ .debug_macro   0x00009352       0xa3 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x000093f5       0x34 ./HAL/Source/HAL_Flash.o
+ .debug_macro   0x00009429       0xb0 ./HAL/Source/HAL_GPIO.o
+ .debug_macro   0x000094d9      0x1c5 ./HAL/Source/HAL_LPUART.o
+ .debug_macro   0x0000969e       0x8f ./HAL/Source/HAL_NVIC.o
+ .debug_macro   0x0000972d       0x5e ./HAL/Source/HAL_systick.o
+ .debug_macro   0x0000978b       0x6a ./HAL/Source/HAL_systick.o
+ .debug_macro   0x000097f5       0xa7 ./Driver/Source/Driver_Clock.o
+ .debug_macro   0x0000989c       0xbf ./Driver/Source/Driver_Flash.o
+ .debug_macro   0x0000995b       0xbf ./Driver/Source/Driver_GPIO.o
+ .debug_macro   0x00009a1a       0xc0 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00009ada       0x10 ./Driver/Source/Driver_LPUART.o
+ .debug_macro   0x00009aea       0x99 ./Driver/Source/Driver_NVIC.o
+ .debug_macro   0x00009b83       0x71 ./Driver/Source/Driver_systick.o
+ .debug_macro   0x00009bf4      0x187 ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00009d7b       0x3a ./Bootloader_Application/Source/main.o
+ .debug_macro   0x00009db5       0x70 ./Bootloader_Application/Source/main.o
+
+.debug_line     0x00000000     0x4a97
+ .debug_line    0x00000000      0x4a5 ./startup/startup_mke16z4.o
+ .debug_line    0x000004a5      0x309 ./device/system_MKE16Z4.o
+ .debug_line    0x000007ae      0x363 ./User_Application/Source/User_App.o
+ .debug_line    0x00000b11      0x41b ./SregLib/checkSREC.o
+ .debug_line    0x00000f2c      0x2a5 ./Queue/Queue.o
+ .debug_line    0x000011d1      0x35b ./HAL/Source/HAL_Clock.o
+ .debug_line    0x0000152c      0x364 ./HAL/Source/HAL_Flash.o
+ .debug_line    0x00001890      0x4b6 ./HAL/Source/HAL_GPIO.o
+ .debug_line    0x00001d46      0x4bf ./HAL/Source/HAL_LPUART.o
+ .debug_line    0x00002205      0x38a ./HAL/Source/HAL_NVIC.o
+ .debug_line    0x0000258f      0x282 ./HAL/Source/HAL_systick.o
+ .debug_line    0x00002811      0x38d ./Driver/Source/Driver_Clock.o
+ .debug_line    0x00002b9e      0x5d4 ./Driver/Source/Driver_Flash.o
+ .debug_line    0x00003172      0x3e4 ./Driver/Source/Driver_GPIO.o
+ .debug_line    0x00003556      0x6ef ./Driver/Source/Driver_LPUART.o
+ .debug_line    0x00003c45      0x2f6 ./Driver/Source/Driver_NVIC.o
+ .debug_line    0x00003f3b      0x326 ./Driver/Source/Driver_systick.o
+ .debug_line    0x00004261      0x836 ./Bootloader_Application/Source/main.o
+
+.debug_str      0x00000000    0x3fed4
+ .debug_str     0x00000000    0x39d3a ./startup/startup_mke16z4.o
+                              0x39f85 (size before relaxing)
+ .debug_str     0x00039d3a     0x389a ./device/system_MKE16Z4.o
+                              0x3ce8f (size before relaxing)
+ .debug_str     0x0003d5d4       0x81 ./User_Application/Source/User_App.o
+                              0x39b82 (size before relaxing)
+ .debug_str     0x0003d655      0x29c ./SregLib/checkSREC.o
+                               0x48c0 (size before relaxing)
+ .debug_str     0x0003d8f1      0x18a ./Queue/Queue.o
+                               0x47b8 (size before relaxing)
+ .debug_str     0x0003da7b      0x148 ./HAL/Source/HAL_Clock.o
+                              0x398e7 (size before relaxing)
+ .debug_str     0x0003dbc3      0x2bc ./HAL/Source/HAL_Flash.o
+                              0x39911 (size before relaxing)
+ .debug_str     0x0003de7f      0x1bd ./HAL/Source/HAL_GPIO.o
+                              0x39c60 (size before relaxing)
+ .debug_str     0x0003e03c      0x95a ./HAL/Source/HAL_LPUART.o
+                              0x3a2ba (size before relaxing)
+ .debug_str     0x0003e996      0x2f1 ./HAL/Source/HAL_NVIC.o
+                              0x39932 (size before relaxing)
+ .debug_str     0x0003ec87      0x37d ./HAL/Source/HAL_systick.o
+                               0x499c (size before relaxing)
+ .debug_str     0x0003f004      0x1db ./Driver/Source/Driver_Clock.o
+                              0x3984d (size before relaxing)
+ .debug_str     0x0003f1df      0x188 ./Driver/Source/Driver_Flash.o
+                              0x399b2 (size before relaxing)
+ .debug_str     0x0003f367      0x114 ./Driver/Source/Driver_GPIO.o
+                              0x39c26 (size before relaxing)
+ .debug_str     0x0003f47b      0x54c ./Driver/Source/Driver_LPUART.o
+                              0x39f8c (size before relaxing)
+ .debug_str     0x0003f9c7       0x6d ./Driver/Source/Driver_NVIC.o
+                              0x39893 (size before relaxing)
+ .debug_str     0x0003fa34      0x101 ./Driver/Source/Driver_systick.o
+                               0x4a4b (size before relaxing)
+ .debug_str     0x0003fb35      0x39f ./Bootloader_Application/Source/main.o
+                              0x3a9c9 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./startup/startup_mke16z4.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./device/system_MKE16Z4.o
+ .comment       0x00000049       0x4a ./User_Application/Source/User_App.o
+ .comment       0x00000049       0x4a ./SregLib/checkSREC.o
+ .comment       0x00000049       0x4a ./Queue/Queue.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_Clock.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_Flash.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_GPIO.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_LPUART.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_NVIC.o
+ .comment       0x00000049       0x4a ./HAL/Source/HAL_systick.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_Clock.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_Flash.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_GPIO.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_LPUART.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_NVIC.o
+ .comment       0x00000049       0x4a ./Driver/Source/Driver_systick.o
+ .comment       0x00000049       0x4a ./Bootloader_Application/Source/main.o
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./startup/startup_mke16z4.o
+ .ARM.attributes
+                0x0000002c       0x2c ./device/system_MKE16Z4.o
+ .ARM.attributes
+                0x00000058       0x2c ./User_Application/Source/User_App.o
+ .ARM.attributes
+                0x00000084       0x2c ./SregLib/checkSREC.o
+ .ARM.attributes
+                0x000000b0       0x2c ./Queue/Queue.o
+ .ARM.attributes
+                0x000000dc       0x2c ./HAL/Source/HAL_Clock.o
+ .ARM.attributes
+                0x00000108       0x2c ./HAL/Source/HAL_Flash.o
+ .ARM.attributes
+                0x00000134       0x2c ./HAL/Source/HAL_GPIO.o
+ .ARM.attributes
+                0x00000160       0x2c ./HAL/Source/HAL_LPUART.o
+ .ARM.attributes
+                0x0000018c       0x2c ./HAL/Source/HAL_NVIC.o
+ .ARM.attributes
+                0x000001b8       0x2c ./HAL/Source/HAL_systick.o
+ .ARM.attributes
+                0x000001e4       0x2c ./Driver/Source/Driver_Clock.o
+ .ARM.attributes
+                0x00000210       0x2c ./Driver/Source/Driver_Flash.o
+ .ARM.attributes
+                0x0000023c       0x2c ./Driver/Source/Driver_GPIO.o
+ .ARM.attributes
+                0x00000268       0x2c ./Driver/Source/Driver_LPUART.o
+ .ARM.attributes
+                0x00000294       0x2c ./Driver/Source/Driver_NVIC.o
+ .ARM.attributes
+                0x000002c0       0x2c ./Driver/Source/Driver_systick.o
+ .ARM.attributes
+                0x000002ec       0x2c ./Bootloader_Application/Source/main.o
+ .ARM.attributes
+                0x00000318       0x2c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000344       0x2c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000370       0x1c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x0000038c       0x1c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x000003a8       0x1c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+
+.debug_frame    0x00000000     0x14d4
+ .debug_frame   0x00000000      0x3a8 ./startup/startup_mke16z4.o
+ .debug_frame   0x000003a8       0x68 ./device/system_MKE16Z4.o
+ .debug_frame   0x00000410       0x68 ./User_Application/Source/User_App.o
+ .debug_frame   0x00000478       0x98 ./SregLib/checkSREC.o
+ .debug_frame   0x00000510      0x104 ./Queue/Queue.o
+ .debug_frame   0x00000614      0x104 ./HAL/Source/HAL_Clock.o
+ .debug_frame   0x00000718      0x12c ./HAL/Source/HAL_Flash.o
+ .debug_frame   0x00000844      0x1cc ./HAL/Source/HAL_GPIO.o
+ .debug_frame   0x00000a10      0x290 ./HAL/Source/HAL_LPUART.o
+ .debug_frame   0x00000ca0       0xd0 ./HAL/Source/HAL_NVIC.o
+ .debug_frame   0x00000d70       0xf8 ./HAL/Source/HAL_systick.o
+ .debug_frame   0x00000e68      0x120 ./Driver/Source/Driver_Clock.o
+ .debug_frame   0x00000f88       0x50 ./Driver/Source/Driver_Flash.o
+ .debug_frame   0x00000fd8      0x174 ./Driver/Source/Driver_GPIO.o
+ .debug_frame   0x0000114c      0x1b8 ./Driver/Source/Driver_LPUART.o
+ .debug_frame   0x00001304       0x70 ./Driver/Source/Driver_NVIC.o
+ .debug_frame   0x00001374       0x6c ./Driver/Source/Driver_systick.o
+ .debug_frame   0x000013e0       0xf4 ./Bootloader_Application/Source/main.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC0_DriverIRQHandler                             ./startup/startup_mke16z4.o
+ADC0_IRQHandler                                   ./startup/startup_mke16z4.o
+CMP0_DriverIRQHandler                             ./startup/startup_mke16z4.o
+CMP0_IRQHandler                                   ./startup/startup_mke16z4.o
+Driver_ClearInterruptFlag                         ./Driver/Source/Driver_GPIO.o
+Driver_EnableFalshModuleClock                     ./Driver/Source/Driver_Clock.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_EnableGPIOBClock                           ./Driver/Source/Driver_Clock.o
+                                                  ./Bootloader_Application/Source/main.o
+                                                  ./User_Application/Source/User_App.o
+Driver_EnableGPIOCClock                           ./Driver/Source/Driver_Clock.o
+Driver_EnableGPIODClock                           ./Driver/Source/Driver_Clock.o
+                                                  ./startup/startup_mke16z4.o
+Driver_Flash_EraseSector                          ./Driver/Source/Driver_Flash.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_Flash_WritePolling                         ./Driver/Source/Driver_Flash.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_ISRQMode                                   ./Driver/Source/Driver_GPIO.o
+Driver_IntPortBCDHandleFunc                       ./Driver/Source/Driver_GPIO.o
+Driver_LPUARTInit                                 ./Driver/Source/Driver_LPUART.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_LPUARTSendArrayPolling                     ./Driver/Source/Driver_LPUART.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_LPUARTSendCharPolling                      ./Driver/Source/Driver_LPUART.o
+Driver_LPUART_EnableOrDisableRXInterrupt          ./Driver/Source/Driver_LPUART.o
+Driver_LPUART_EnableOrDisableTXInterrupt          ./Driver/Source/Driver_LPUART.o
+Driver_LPUART_waitToReceive                       ./Driver/Source/Driver_LPUART.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_LPUART_waitToTransmit                      ./Driver/Source/Driver_LPUART.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_Mux                                        ./Driver/Source/Driver_GPIO.o
+                                                  ./Bootloader_Application/Source/main.o
+                                                  ./User_Application/Source/User_App.o
+                                                  ./startup/startup_mke16z4.o
+Driver_NVICDisable                                ./Driver/Source/Driver_NVIC.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_NVICEnable                                 ./Driver/Source/Driver_NVIC.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_NVIC_SetPriority                           ./Driver/Source/Driver_NVIC.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_RXEnableOrDisable                          ./Driver/Source/Driver_LPUART.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_ReadAndClearInterruptFlag                  ./Driver/Source/Driver_GPIO.o
+Driver_ReadDataInput                              ./Driver/Source/Driver_GPIO.o
+                                                  ./startup/startup_mke16z4.o
+Driver_SetCGCLPIT0                                ./Driver/Source/Driver_Clock.o
+Driver_SetCGCLPUART0                              ./Driver/Source/Driver_Clock.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_SetFIRCDIV2                                ./Driver/Source/Driver_Clock.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_SetPCSLPIT0                                ./Driver/Source/Driver_Clock.o
+Driver_SetPCSLPUART0                              ./Driver/Source/Driver_Clock.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_SetPinMode                                 ./Driver/Source/Driver_GPIO.o
+                                                  ./User_Application/Source/User_App.o
+                                                  ./startup/startup_mke16z4.o
+Driver_TXEnableOrDisable                          ./Driver/Source/Driver_LPUART.o
+Driver_TongglePin                                 ./Driver/Source/Driver_GPIO.o
+                                                  ./User_Application/Source/User_App.o
+Driver_WritePEFeild                               ./Driver/Source/Driver_GPIO.o
+Driver_WritePSFeild                               ./Driver/Source/Driver_GPIO.o
+Driver_WritePinDigital                            ./Driver/Source/Driver_GPIO.o
+                                                  ./User_Application/Source/User_App.o
+Driver_systickInit                                ./Driver/Source/Driver_systick.o
+                                                  ./Bootloader_Application/Source/main.o
+Driver_systickInterruptEnableOrDisable            ./Driver/Source/Driver_systick.o
+                                                  ./Bootloader_Application/Source/main.o
+FTFA_DriverIRQHandler                             ./startup/startup_mke16z4.o
+FTFA_IRQHandler                                   ./startup/startup_mke16z4.o
+FTM0_DriverIRQHandler                             ./startup/startup_mke16z4.o
+FTM0_IRQHandler                                   ./startup/startup_mke16z4.o
+FTM1_DriverIRQHandler                             ./startup/startup_mke16z4.o
+FTM1_IRQHandler                                   ./startup/startup_mke16z4.o
+Flash_Config                                      ./startup/startup_mke16z4.o
+HAL_ClearInterruptFlag                            ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_Disable_systick                               ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_ENABLE_FTFA_CLOCK                             ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_EnableGPIOBClock                              ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_EnableGPIODClock                              ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_Enable_systick                                ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_ExternalClock_systick                         ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_FLASH_Clear_CCIF                              ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB0                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB1                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB2                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB3                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB4                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB5                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB6                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_FLASH_Write_FCCOB7                            ./HAL/Source/HAL_Flash.o
+                                                  ./Driver/Source/Driver_Flash.o
+HAL_GPIO_ReadDataInput                            ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_GPIO_SetMode                                  ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_ISRQMode                                      ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_IntPortBCDHandleFunc                          ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_InterrputDisable_systick                      ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_InterrputEnable_systick                       ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_LPUART_Read_DATA                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Read_RDRF                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Read_TDRE                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Read_TIE                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_DATA                             ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_M                                ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_M10                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_M7                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_MSBF                             ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_OSR                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_PE                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_PT                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_RE                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_RIE                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_RXFE                             ./HAL/Source/HAL_LPUART.o
+HAL_LPUART_Write_SBNS                             ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_SBR                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_TE                               ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_TIE                              ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+HAL_LPUART_Write_TXFE                             ./HAL/Source/HAL_LPUART.o
+HAL_Mux                                           ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_NVICDisable                                   ./HAL/Source/HAL_NVIC.o
+                                                  ./Driver/Source/Driver_NVIC.o
+HAL_NVICEnable                                    ./HAL/Source/HAL_NVIC.o
+                                                  ./Driver/Source/Driver_NVIC.o
+HAL_NVIC_SetPriority                              ./HAL/Source/HAL_NVIC.o
+                                                  ./Driver/Source/Driver_NVIC.o
+HAL_ProcessClock_systick                          ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_ReadInterruptFlag                             ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_ResetGPIO                                     ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_SetCGCLPIT0                                   ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_SetCGCLPUART0                                 ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_SetFIRCDIV2                                   ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_SetGPIO                                       ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_SetPCSLPIT0                                   ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_SetPCSLPUART0                                 ./HAL/Source/HAL_Clock.o
+                                                  ./Driver/Source/Driver_Clock.o
+HAL_SetReloadValue_systick                        ./HAL/Source/HAL_systick.o
+                                                  ./Driver/Source/Driver_systick.o
+HAL_TongglePin                                    ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_WritePEFeild                                  ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_WritePSFeild                                  ./HAL/Source/HAL_GPIO.o
+                                                  ./Driver/Source/Driver_GPIO.o
+HAL_systickHandleFunc                             ./HAL/Source/HAL_systick.o
+HardFault_Handler                                 ./startup/startup_mke16z4.o
+IntDefaultHandler                                 ./startup/startup_mke16z4.o
+LPI2C0_DriverIRQHandler                           ./startup/startup_mke16z4.o
+LPI2C0_IRQHandler                                 ./startup/startup_mke16z4.o
+LPIT0_DriverIRQHandler                            ./startup/startup_mke16z4.o
+LPIT0_IRQHandler                                  ./startup/startup_mke16z4.o
+LPSPI0_DriverIRQHandler                           ./startup/startup_mke16z4.o
+LPSPI0_IRQHandler                                 ./startup/startup_mke16z4.o
+LPUART0_DriverIRQHandler                          ./startup/startup_mke16z4.o
+LPUART0_IRQHandler                                ./Driver/Source/Driver_LPUART.o
+                                                  ./startup/startup_mke16z4.o
+LPUART0_errorHandle                               ./Bootloader_Application/Source/main.o
+LPUART1_DriverIRQHandler                          ./startup/startup_mke16z4.o
+LPUART1_IRQHandler                                ./Driver/Source/Driver_LPUART.o
+                                                  ./startup/startup_mke16z4.o
+LPUART2_DriverIRQHandler                          ./startup/startup_mke16z4.o
+LPUART2_IRQHandler                                ./Driver/Source/Driver_LPUART.o
+                                                  ./startup/startup_mke16z4.o
+LPUART_ReceiveCallbackFunction                    ./Bootloader_Application/Source/main.o
+LPUART_ReceiveTimeout                             ./Driver/Source/Driver_systick.o
+                                                  ./Driver/Source/Driver_LPUART.o
+LPUART_TransmitTimeout                            ./Driver/Source/Driver_systick.o
+                                                  ./Driver/Source/Driver_LPUART.o
+LPUART_timeoutHandle                              ./Driver/Source/Driver_systick.o
+                                                  ./Driver/Source/Driver_LPUART.o
+LVD_LVW_DriverIRQHandler                          ./startup/startup_mke16z4.o
+LVD_LVW_IRQHandler                                ./startup/startup_mke16z4.o
+MSCAN_DriverIRQHandler                            ./startup/startup_mke16z4.o
+MSCAN_ORed_IRQHandler                             ./startup/startup_mke16z4.o
+MSCAN_Rx_IRQHandler                               ./startup/startup_mke16z4.o
+NMI_Handler                                       ./startup/startup_mke16z4.o
+PDB0_DriverIRQHandler                             ./startup/startup_mke16z4.o
+PDB0_IRQHandler                                   ./startup/startup_mke16z4.o
+PORTAE_DriverIRQHandler                           ./startup/startup_mke16z4.o
+PORTAE_IRQHandler                                 ./startup/startup_mke16z4.o
+PORTBCD_DriverIRQHandler                          ./startup/startup_mke16z4.o
+PORTBCD_IRQHandler                                ./HAL/Source/HAL_GPIO.o
+                                                  ./startup/startup_mke16z4.o
+PWT_LPTMR0_DriverIRQHandler                       ./startup/startup_mke16z4.o
+PWT_LPTMR0_IRQHandler                             ./startup/startup_mke16z4.o
+PendSV_Handler                                    ./startup/startup_mke16z4.o
+RTC_DriverIRQHandler                              ./startup/startup_mke16z4.o
+RTC_IRQHandler                                    ./startup/startup_mke16z4.o
+RX_dequeue                                        ./Queue/Queue.o
+                                                  ./Bootloader_Application/Source/main.o
+Reserved16_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved16_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved17_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved17_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved18_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved18_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved19_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved19_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved20_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved20_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved25_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved25_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved27_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved27_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved35_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved35_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved37_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved37_IRQHandler                             ./startup/startup_mke16z4.o
+Reserved39_DriverIRQHandler                       ./startup/startup_mke16z4.o
+Reserved39_IRQHandler                             ./startup/startup_mke16z4.o
+ResetISR                                          ./startup/startup_mke16z4.o
+SCG_RCM_DriverIRQHandler                          ./startup/startup_mke16z4.o
+SCG_RCM_IRQHandler                                ./startup/startup_mke16z4.o
+SVC_Handler                                       ./startup/startup_mke16z4.o
+SysTick_Handler                                   ./Driver/Source/Driver_systick.o
+                                                  ./startup/startup_mke16z4.o
+SystemCoreClock                                   ./device/system_MKE16Z4.o
+SystemCoreClockUpdate                             ./device/system_MKE16Z4.o
+SystemInit                                        ./device/system_MKE16Z4.o
+                                                  ./startup/startup_mke16z4.o
+SystemInitHook                                    ./device/system_MKE16Z4.o
+TSI_DriverIRQHandler                              ./startup/startup_mke16z4.o
+TSI_IRQHandler                                    ./startup/startup_mke16z4.o
+TX_dequeue                                        ./Queue/Queue.o
+WDOG_EWM_DriverIRQHandler                         ./startup/startup_mke16z4.o
+WDOG_EWM_IRQHandler                               ./startup/startup_mke16z4.o
+__Vectors                                         ./startup/startup_mke16z4.o
+__aeabi_idiv                                      c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_idiv0                                     c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_idivmod                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_lowlevel_memset                           c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+__aeabi_memclr                                    c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr4                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr8                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy                                    c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+__aeabi_memcpy4                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy8                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove4                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove8                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset                                    c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset4                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset8                                   c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_uidiv                                     c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  ./Driver/Source/Driver_LPUART.o
+                                                  ./device/system_MKE16Z4.o
+__aeabi_uidivmod                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__bss_section_table_end                           ./startup/startup_mke16z4.o
+__data_section_table                              ./startup/startup_mke16z4.o
+__data_section_table_end                          ./startup/startup_mke16z4.o
+_vStackTop                                        ./startup/startup_mke16z4.o
+basePtrLPUART                                     ./HAL/Source/HAL_LPUART.o
+                                                  ./Driver/Source/Driver_LPUART.o
+bootloader_main                                   ./Bootloader_Application/Source/main.o
+                                                  ./startup/startup_mke16z4.o
+bss_init                                          ./startup/startup_mke16z4.o
+checkLine                                         ./SregLib/checkSREC.o
+                                                  ./Bootloader_Application/Source/main.o
+convertHexCharToInterger                          ./SregLib/checkSREC.o
+                                                  ./Bootloader_Application/Source/main.o
+data_init                                         ./startup/startup_mke16z4.o
+delay                                             ./User_Application/Source/User_App.o
+fileEnd                                           ./SregLib/checkSREC.o
+g_pfnVectors                                      ./startup/startup_mke16z4.o
+getRxQueueAddress                                 ./Queue/Queue.o
+                                                  ./Bootloader_Application/Source/main.o
+initLed                                           ./User_Application/Source/User_App.o
+mPort                                             ./HAL/Source/HAL_GPIO.o
+memcpy                                            c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memcpy.o)
+                                                  ./SregLib/checkSREC.o
+memset                                            c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(memset.o)
+                                                  ./Bootloader_Application/Source/main.o
+portAddress                                       ./HAL/Source/HAL_GPIO.o
+queueRXCheckEmpty                                 ./Queue/Queue.o
+queueRXCheckFull                                  ./Queue/Queue.o
+                                                  ./Bootloader_Application/Source/main.o
+queueTXCheckEmpty                                 ./Queue/Queue.o
+queueTXCheckFull                                  ./Queue/Queue.o
+queueTXPush                                       ./Queue/Queue.o
+systick_init                                      ./Bootloader_Application/Source/main.o
+user_main                                         ./User_Application/Source/User_App.o
+                                                  ./startup/startup_mke16z4.o

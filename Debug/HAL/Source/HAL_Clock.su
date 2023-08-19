@@ -1,0 +1,8 @@
+../HAL/Source/HAL_Clock.c:20:6:HAL_EnableGPIOBClock	8	static
+../HAL/Source/HAL_Clock.c:30:6:HAL_EnableGPIODClock	8	static
+../HAL/Source/HAL_Clock.c:40:6:HAL_SetFIRCDIV2	16	static
+../HAL/Source/HAL_Clock.c:50:6:HAL_SetPCSLPIT0	16	static
+../HAL/Source/HAL_Clock.c:60:6:HAL_SetPCSLPUART0	16	static
+../HAL/Source/HAL_Clock.c:70:6:HAL_SetCGCLPIT0	16	static
+../HAL/Source/HAL_Clock.c:80:6:HAL_SetCGCLPUART0	16	static
+../HAL/Source/HAL_Clock.c:85:6:HAL_ENABLE_FTFA_CLOCK	8	static

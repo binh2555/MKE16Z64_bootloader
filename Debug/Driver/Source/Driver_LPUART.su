@@ -1,0 +1,13 @@
+../Driver/Source/Driver_LPUART.c:64:13:checkParameter	16	static
+../Driver/Source/Driver_LPUART.c:92:6:Driver_LPUARTInit	40	static
+../Driver/Source/Driver_LPUART.c:200:6:Driver_TXEnableOrDisable	16	static
+../Driver/Source/Driver_LPUART.c:212:6:Driver_RXEnableOrDisable	16	static
+../Driver/Source/Driver_LPUART.c:229:6:Driver_LPUARTSendArrayPolling	40	static
+../Driver/Source/Driver_LPUART.c:247:6:Driver_LPUARTSendCharPolling	16	static
+../Driver/Source/Driver_LPUART.c:268:6:Driver_LPUART_EnableOrDisableTXInterrupt	16	static
+../Driver/Source/Driver_LPUART.c:280:6:Driver_LPUART_EnableOrDisableRXInterrupt	16	static
+../Driver/Source/Driver_LPUART.c:293:23:Driver_LPUART_waitToReceive	48	static
+../Driver/Source/Driver_LPUART.c:321:24:Driver_LPUART_waitToTransmit	48	static
+../Driver/Source/Driver_LPUART.c:345:6:LPUART0_IRQHandler	16	static
+../Driver/Source/Driver_LPUART.c:387:6:LPUART1_IRQHandler	16	static
+../Driver/Source/Driver_LPUART.c:429:6:LPUART2_IRQHandler	16	static

@@ -1,0 +1,2 @@
+../Driver/Source/Driver_Flash.c:25:16:Driver_Flash_WritePolling	40	static
+../Driver/Source/Driver_Flash.c:159:16:Driver_Flash_EraseSector	24	static
